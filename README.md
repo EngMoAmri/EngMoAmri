@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<table>
+<table style="border: none;">
     <tr>
         <td>
         <strong>Mohammed Qaid</strong> Bachelor in Computer and Information Engineering. App developer with various programming languages. Passionate about creating innovative solution.</td>
@@ -14,8 +14,8 @@
 - I am a team member at [IBBDevs](https://www.facebook.com/IBBDevs/)
 - I have some apps at [Play Store](https://play.google.com/store/apps/developer?id=MoAmri)
 
-#### Experience
-<table>
+#### Code With
+<table style="border: none;">
     <tr>
         <td>
             <img src="icons/icons8-android-studio-96.png" title="Android" width="36" />
