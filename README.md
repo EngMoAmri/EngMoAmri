@@ -1,13 +1,14 @@
 ### Hi there 👋
 
-
-<table style="border: none;">
+<!--<table style="border: none;">
     <tr>
         <td>
         <strong>Mohammed Qaid</strong> Bachelor in Computer and Information Engineering. App developer with various programming languages. Passionate about creating innovative solution.</td>
         <td><img src="gifs/glasses-confuse.gif" /></td>
     </tr>
 </table>
+-->
+<strong>Mohammed Qaid</strong> Bachelor in Computer and Information Engineering. App developer with various programming languages. Passionate about creating innovative solution.</td>
 
 
 - I’m currently working on a restaurant service using ```Java Spring Boot``` for Information Technology Enhancement Program
@@ -107,3 +108,7 @@
     </tr>
 </table>
 
+<p align="center"> 
+  Visitor count <br><br>
+  <img src="https://profile-counter.glitch.me/EngMoAmri/count.svg" />
+</p>
