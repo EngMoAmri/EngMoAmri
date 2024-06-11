@@ -11,7 +11,7 @@
 <strong>Mohammed Qaid</strong> Bachelor in Computer and Information Engineering. App developer with various programming languages. Passionate about creating innovative solution.</td>
 
 
-- I’m currently working on a restaurant service using ```Java Spring Boot``` for Information Technology Enhancement Program
+- I’m currently working on an application ```Flutter``` ```Firebase``` ```Gemini``` for Gemini API competition 
 - I am a team member at [IBBDevs](https://www.facebook.com/IBBDevs/)
 - I have some apps at [Play Store](https://play.google.com/store/apps/developer?id=MoAmri)
 
